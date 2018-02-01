@@ -1,5 +1,5 @@
 {
-  "object" [
+  "object" : [
     { "userid": 1, "id": "Post 1", "title" : "title", "body" : "body"  }
   ]
 }
